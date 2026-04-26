@@ -9443,6 +9443,7 @@ const launcherData = {
       "chromecast": {
           "appName": "Twitch",
           "androidName": "tv.twitch.android.app",
+          "adbLaunchCommand": "adb shell am start -n tv.twitch.android.app/tv.twitch.starshot64.app.StarshotActivity",
       },
       "homatics": {
           "appName": "Twitch",
