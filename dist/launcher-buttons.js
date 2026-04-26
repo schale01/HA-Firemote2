@@ -9434,7 +9434,7 @@ const launcherData = {
       "deviceFamily": ["amazon-fire", "apple-tv", "chromecast", "homatics", "nvidia-shield", "onn", "xiaomi"],
       "amazon-fire": {
           "appName": "Twitch (FireTV)",
-          "androidName": "tv.twitch.android.viewer",
+          "androidName": "tv.twitch.android.app",
       },
       "apple-tv": {
           "appName": "Twitch",
